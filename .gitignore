@@ -1,0 +1,18 @@
+# Environment files and secrets
+.env
+.env.*
+*.env
+*.env.*
+*.key
+*.pem
+*.p12
+*.pfx
+
+# Local Python environments
+/poc_env/
+/.venv/
+/venv/
+/env/
+
+# Data and generated datasets
+/data/
